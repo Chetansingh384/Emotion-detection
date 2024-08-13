@@ -1,6 +1,6 @@
 # Emotion Detection Using CNN
 
-![Emotion Detection](file:///C:/Users/ASUS%20ROG/OneDrive/Desktop/image_58988211261646075610235.png)
+![Emotion Detection](https://github.com/Chetansingh384/Emotion_detection_cnn/blob/main/PROJECT_IMAGE.jpg)
 
 ## 📝 Project Overview
 
